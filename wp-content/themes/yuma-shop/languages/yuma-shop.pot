@@ -1,0 +1,107 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yuma Shop 1.0.0\n"
+"POT-Creation-Date: 2023-09-05 00:35+0545\n"
+"PO-Revision-Date: 2020-07-21 14:18+0545\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n;_nx;_n_noop;transate_nooped_plural;"
+"esc_html__;esc_html_e;esc_html_x;esc_attr__;esc_attr_e;esc_attr_x;"
+"number_format_i18n;date_i18n\n"
+"Last-Translator: \n"
+"Language: en\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions.php:131
+msgid "Yuma Shop"
+msgstr ""
+
+#: patterns/features.php:17
+msgid "Worldwide Delivery"
+msgstr ""
+
+#: patterns/features.php:21
+msgid "Our team of ninjas will deliver your package on time."
+msgstr ""
+
+#: patterns/features.php:31
+msgid "Premium Support"
+msgstr ""
+
+#: patterns/features.php:35
+msgid "We don't just sell products, we provide solutions."
+msgstr ""
+
+#: patterns/features.php:45
+msgid "30 Days Return"
+msgstr ""
+
+#: patterns/features.php:49
+msgid "A 30-day return policy that can't be beaten."
+msgstr ""
+
+#: patterns/features.php:59
+msgid "Secure Payment"
+msgstr ""
+
+#: patterns/features.php:63
+msgid "Pay with world's most popular payment gateway."
+msgstr ""
+
+#: patterns/latest-blogs.php:12
+msgid "Latest Blogs"
+msgstr ""
+
+#: patterns/promo.php:14
+msgid "BRAND"
+msgstr ""
+
+#: patterns/promo.php:18
+msgid ""
+"Give your feet the beauty treatment that only brand-new shoes can give."
+msgstr ""
+
+#: patterns/promo.php:23 patterns/promo.php:37 patterns/promo.php:53
+msgid "View Collection"
+msgstr ""
+
+#: patterns/promo.php:32
+msgid "ULTRA"
+msgstr ""
+
+#: patterns/promo.php:32
+msgid "LIGHT"
+msgstr ""
+
+#: patterns/promo.php:48
+msgid "DESIGNER"
+msgstr ""
+
+#: patterns/promo.php:48
+msgid "SHOES"
+msgstr ""
+
+#: patterns/sale-banner.php:13
+msgid "One Day Sale"
+msgstr ""
+
+#: patterns/sale-banner.php:17
+#, php-format
+msgid "50% off, let's make some magic"
+msgstr ""
+
+#: patterns/sale-banner.php:21
+msgid ""
+"Footwear to last you a lifetime. Bring power to your steps. Go faster, go "
+"stronger, never stop."
+msgstr ""
+
+#: patterns/text-spacer.php:11
+msgid "Treat Your Feet"
+msgstr ""
